@@ -1,33 +1,36 @@
 # ![BANNER](./images/banner.jpg)
-### Welcome 👋 ! 
-## My name is Nicolas, I'm a junior web developer / senior photo retoucher
+## Welcome 👋 ! <br>
+###  My name is Nicolas I'm a photographer / retoucher making websites. <br>
 
-Where to find me 🌴
-👉 LinkedIn
-👉 Instagram
-👉 Personnal Website (Portfolio)
+## Where to find me 🌴
+👉 [LinkedIn](http://www.linkedin.com/nicolashodee) <br>
+👉 [Instagram](http://www.instagram.com/nicolas_hodee_photography) <br>
+👉 [Website - Personnal portfolio](http://www.nicolashodee.com) <br>
 
-📫 About 
-I am Nicolas HODEE, a junior front-end web developer, I live France, I work remotely, I am a seasoned self-taught, responsible and creative.
-Mes compétences
+## What I use 🤘  :
 
-🤘 What I use :
-
-    Html / CSS / JS
+     
+    Adobe Photoshop 
+    Final Cut Pro 
+    Html / CSS / Javascript
     Heroku
     Wordpress
-    Foundation / ImageVue
+    GSAP
+    Git
+    Foundation
     MySql
     Php
-
-- 🔭 I’m currently working on Wordpress custom websites
-- 🌱 I’m currently learning CSS / Javascript / PHP
-- 👯 I’m looking to collaborate on small websites for locals shops and small companies
-- 🤔 I’m looking for help with PHP / Wordpress
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    NPM 
+    Parcel
+    Ruby on Rails (sometimes)
+## What else.. ?
+- 🔭 I’m currently working on -> Wordpress custom websites
+- 🌱 I’m currently learning -> CSS / Javascript / PHP
+- 👯 I’m looking to collaborate on -> small websites for locals shops and small companies
+- 🤔 I’m looking for help with -> PHP / Custom Wordpress sites
+- 💬 Ask me about -> Photography, I'm a killer !
+- 📫 How to reach me: contact(at)nicolashodee.com
+- ⚡ Fun fact: Do you know the difference between a french developper and a baguette ? 
 
 
 <!--
