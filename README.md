@@ -1,4 +1,4 @@
-# ![BANNER](./images/banner.png)
+# ![BANNER](./images/banner.jpg)
 ## Welcome 👋 ! <br>
 ###  My name is Nicolas I'm a photographer / retoucher making websites. <br>
 ## My name is Nicolas, I'm a photographer / retoucher making websites. 
