@@ -1,6 +1,8 @@
 # ![BANNER](./images/banner.jpg)
 ## Welcome 👋 ! <br>
 ###  My name is Nicolas I'm a photographer / retoucher making websites. <br>
+### Welcome 👋 ! 
+## My name is Nicolas, I'm a photographer / retoucher making websites. 
 
 ## Where to find me 🌴
 👉 [LinkedIn](http://www.linkedin.com/nicolashodee) <br>
