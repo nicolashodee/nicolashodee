@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome 👋 ! 
+## My name is Nicolas, I'm a junior web developer / senior photo retoucher
 
 <!--
 **nicolashodee/nicolashodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
