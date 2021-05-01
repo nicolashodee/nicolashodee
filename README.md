@@ -1,6 +1,6 @@
 # ![BANNER](./images/banner.jpg)
 ### Welcome 👋 ! 
-## My name is Nicolas, I'm a junior web developer / senior photo retoucher
+## My name is Nicolas, I'm a photographer / retoucher making websites. 
 
 Where to find me 🌴
 👉 LinkedIn
