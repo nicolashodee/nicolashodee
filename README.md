@@ -1,3 +1,4 @@
+# ![BANNER](./images/banner.jpg)
 ### Welcome 👋 ! 
 ## My name is Nicolas, I'm a junior web developer / senior photo retoucher
 
