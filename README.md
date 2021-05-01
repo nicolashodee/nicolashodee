@@ -5,6 +5,8 @@
 👉 [LinkedIn](http://www.linkedin.com/nicolashodee) <br>
 👉 [Instagram](http://www.instagram.com/nicolas_hodee_photography) <br>
 👉 [Website - Personnal portfolio](http://www.nicolashodee.com) <br>
+👉 [BOOK A PHONE CALL](https://calendly.com/nicolashodee/rendez-vous-telephonique) <br>
+
 
 ## What I use 🤘  :
 
